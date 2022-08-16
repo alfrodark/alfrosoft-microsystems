@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.js": "/static/js/main.4b6b7723.js",
+    "static/media/reviewIcon.png": "/static/media/reviewIcon.fa6c4fdf0b14e0ca6af4.png",
+    "static/media/infoBackground.svg": "/static/media/infoBackground.47d3060d558832f906acb135e2f8a65c.svg",
+    "static/media/background2.jpg": "/static/media/background2.3eb6d9fd6168c7b58644.jpg",
+    "static/media/mockupIcon.png": "/static/media/mockupIcon.b32362ad5346a4e91afe.png",
+    "static/media/vision.png": "/static/media/vision.69f99570f3c5336b23fb.png",
+    "static/media/analytics.png": "/static/media/analytics.58b1c8ad59667b60b10a.png",
+    "static/media/launchIcon.png": "/static/media/launchIcon.908db2e5b84eb9eff91d.png",
+    "static/media/ecommerce.png": "/static/media/ecommerce.fe709ebd1bbb304ae5bd.png",
+    "static/media/mobileBackground.jpg": "/static/media/mobileBackground.2ca07899a4e74d711685.jpg",
+    "static/media/root.svg": "/static/media/root.c18337459e9269a2e6fe56023d4b2883.svg",
+    "static/media/iterateIcon.png": "/static/media/iterateIcon.7a24d58be20edb135581.png",
+    "static/media/Footer Adornment.png": "/static/media/Footer Adornment.fd2a3ba4d4d14327038d.png",
+    "static/media/repeatingBackground.svg": "/static/media/repeatingBackground.0225281752f63f63e9c46505aa67d22d.svg",
+    "static/media/buildIcon.png": "/static/media/buildIcon.9502c6fe5b35b1315b15.png",
+    "static/media/seo.png": "/static/media/seo.6ce27324d1f66dda14e5.png",
+    "static/media/consultationIcon.png": "/static/media/consultationIcon.e5fe7d41889cf7a8221d.png",
+    "static/media/designIcon.png": "/static/media/designIcon.36abc344690fa59fe877.png",
+    "static/media/maintainIcon.png": "/static/media/maintainIcon.ddc155d8eaabe91c4c62.png",
+    "static/media/alfrosoftlogo.png": "/static/media/alfrosoftlogo.bd335ee85025c6a0f833.png",
+    "static/media/outreach.png": "/static/media/outreach.9da75bf938d6fab6a945.png",
+    "static/media/increaseEngagement.png": "/static/media/increaseEngagement.2d3bb16ba3bc0c5e2b12.png",
+    "static/media/extendAccess.png": "/static/media/extendAccess.3f33784f89f0bd608bfd.png",
+    "static/media/img_0.png": "/static/media/img_0.d570e87b23617866010c.png",
+    "static/media/img_1.png": "/static/media/img_1.30d7b7bbb86b7bf0e2a1.png",
+    "static/media/swissKnife.svg": "/static/media/swissKnife.6c41ee0a8fe333212c52354bcc6dc706.svg",
+    "static/media/mobileIcon.svg": "/static/media/mobileIcon.17cd04f1804a1b2daeb5947742410ab1.svg",
+    "static/media/twitter.svg": "/static/media/twitter.e091825ab3e4ed4e0398b0055130c2ea.svg",
+    "static/media/instagram.svg": "/static/media/instagram.7951df5dbed2a873e50fa768d7b0455c.svg",
+    "static/media/websiteIcon.svg": "/static/media/websiteIcon.549318f52968d52bca0cfae21b3262be.svg",
+    "static/media/Custom Software Icon.svg": "/static/media/Custom Software Icon.c2d29ed8281316668126bbfe181eec57.svg",
+    "static/media/facebook.svg": "/static/media/facebook.5ebde1b699594f4324853070ec3a62e0.svg",
+    "index.html": "/index.html",
+    "main.4b6b7723.js.map": "/static/js/main.4b6b7723.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4b6b7723.js"
+  ]
+}
